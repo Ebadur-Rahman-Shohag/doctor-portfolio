@@ -13,7 +13,7 @@ function Contact() {
                     {/* card */}
                     <div className="space-y-5 w-full space-x-5 rounded-lg shadow-2xl p-5 border border-gray-100">
                         <h1 className="text-lg font-bold">Contact Information</h1>
-                        <div className="space-y-5">
+                        <div className="space-y-5 text-base font-medium">
                             <p className="flex items-center gap-2">
                                 <span >
                                     <CiMail />
